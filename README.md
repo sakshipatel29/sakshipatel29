@@ -27,8 +27,14 @@ Hey! My name is Sakshi Patel. I'm currently pursuing a Master's in Computer Scie
 <a href="https://www.javascript.com/">
     <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
 </a>
+<a href="https://www.typescriptlang.org/">
+    <img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white" />
+</a>
 <a href="https://reactjs.org/">
     <img src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" />
+</a>
+<a href="https://nextjs.org/">
+    <img src="https://img.shields.io/badge/Next.js-%23000000.svg?&style=for-the-badge&logo=next.js&logoColor=white" />
 </a>
 <a href="https://redux.js.org/">
     <img alt="Redux" src="https://img.shields.io/badge/redux%20-%23593d88.svg?&style=for-the-badge&logo=redux&logoColor=white" />

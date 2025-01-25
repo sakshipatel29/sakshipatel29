@@ -12,7 +12,7 @@
 
 ## About Me
 
-Hey! My name is Sakshi Kumari Patel. I'm currently pursuing a Master's in Computer Science at Illinois Institute of Technology, Chicago, with a GPA of 3.78. I am passionate about Artificial Intelligence, Full-Stack Development, and Machine Learning. I'm always eager to learn new technologies and work on innovative projects.
+Hey! My name is Sakshi Patel. I'm currently pursuing a Master's in Computer Science at Illinois Institute of Technology, Chicago, with a GPA of 3.78. I am passionate about Artificial Intelligence, Full-Stack Development, and Machine Learning. I'm always eager to learn new technologies and work on innovative projects.
 
 ---
 
@@ -64,7 +64,7 @@ Hey! My name is Sakshi Kumari Patel. I'm currently pursuing a Master's in Comput
   <a href="https://www.linkedin.com/in/sakshirp">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://github.com/sakshirp">
+  <a href="https://github.com/sakshipatel29">
     <img src="https://img.shields.io/badge/Github-%230A0A0A.svg?&style=flat-square&logo=Github&logoColor=white" />
   </a>
 </p>

@@ -5,7 +5,7 @@
 
 <h2 class="animate__animated animate__zoomIn">
     <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px" /></a>
-    <h1 align="center">Hi <img src="https://raw.githubusercontent.com/nisarg210/nisarg210/main/Hi.gif" width="30px">, I'm Sakshi Kumari Patel!!</h1>
+    <h1 align="center">Hi <img src="https://raw.githubusercontent.com/nisarg210/nisarg210/main/Hi.gif" width="30px">, I'm Sakshi Patel!!</h1>
 </h2>
 
 <hr />

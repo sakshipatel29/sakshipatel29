@@ -76,13 +76,6 @@ Hey! My name is Sakshi Patel. I'm currently pursuing a Master's in Computer Scie
 </p>
 </h1>
 
-<div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sakshipatel29/sakshipatel29/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sakshipatel29/sakshipatel29/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/sakshipatel29/sakshipatel29/output/github-snake.svg" />
-</picture>
-</div>
 
-<h3>Thanks for stopping by! 😊</h3>
+<h3>Thank you for stopping by!</h3>
 
